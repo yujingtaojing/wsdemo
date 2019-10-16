@@ -15,7 +15,7 @@
 				<artifactId>jaxws-maven-plugin</artifactId>
 				<version>2.5</version>
 				<configuration>
-					<packageName>com.xxg.wsclient</packageName>
+					<packageName>com.demo.wsclient</packageName>
 					<sourceDestDir>src\main\java</sourceDestDir>
 					<!-- resources 目录 本地文件 -->
 					<!-- <wsdlFiles>
