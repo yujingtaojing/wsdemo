@@ -17,6 +17,12 @@
 				<configuration>
 					<packageName>com.xxg.wsclient</packageName>
 					<sourceDestDir>src\main\java</sourceDestDir>
+					<!-- resources 目录 本地文件 -->
+					<!-- <wsdlFiles>
+						<wsdlFile>
+						</wsdlFile>
+					</wsdlFiles> -->
+					<!-- 远程文件 -->
 					<wsdlUrls>
 						<wsdlUrl>
 							http://ws.webxml.com.cn/webservices/qqOnlineWebService.asmx?wsdl
